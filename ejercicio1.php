@@ -1,4 +1,7 @@
 <?php
+    /*
+        variables y comentarios
+    */
     $variable = 'uno';
     $variable2 = "dos";
     
